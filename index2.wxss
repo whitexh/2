@@ -1,0 +1,29 @@
+/* pages/index2/index2.wxss */
+.jiemian{  /*总的页面*/
+  margin-top: 23rpx;
+  margin-left: 22rpx;
+  width: 339rpx;
+  height: 505rpx;
+  border: 1px solid gainsboro;
+  margin-bottom: 12rpx;
+  display: flex;
+  float: left;
+  flex-wrap: wrap;
+}
+.cp{ /*产品文字描述*/
+  font-size: 30rpx;
+}
+.pic{ /*产品图片*/
+  width: 339rpx;
+  height: 412rpx;
+}
+.load-bottom{
+  background-color: white;
+  margin-top:12rpx;
+  height:47rpx;
+  text-align: center;
+  color: gray;
+  font-size: 26rpx;      
+}
+
+

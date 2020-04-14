@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#B0C4DE",
+  "navigationBarTitleText": "推荐",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true
+}

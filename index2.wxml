@@ -1,0 +1,12 @@
+<!--pages/index2/index2.wxml-->
+<view class="jiemian" wx:for="{{tabs}}" wx:key="z">
+    <view class="cp">
+        <image class="pic" src="../../images/a(1).jpg" ></image> 
+        <view>{{item.price}}</view>
+        <view>{{item.time}}</view>
+    </view>
+</view>
+<view class="load-bottom">
+		<text>已经到底了^_^!</text>	
+</view>
+
